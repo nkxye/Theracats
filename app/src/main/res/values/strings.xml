@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Theracats</string>
+    <string name="image_id">Image ID</string>
+    <string name="devNames">Made with 😻 by Lenard Valdez and Nicole Bilon</string>
+    <string name="emptyFragment">No hamb pictures saved yet!</string>
+    <string name="open_photo">Open Photo</string>
+    <string name="created">Created</string>
+</resources>
